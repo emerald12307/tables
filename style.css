@@ -86,6 +86,7 @@ caption {
   border: 1px solid gray;
   font-size: 12px;
   border-style: inset;
+  padding: auto 20px;
 }
 .green {
   color: green;
